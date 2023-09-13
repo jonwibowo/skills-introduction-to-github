@@ -1,2 +1,2 @@
-# :wave: About Me 
+Welcome to my GitHub profile!
 
